@@ -1,4 +1,4 @@
-# Credit-Card-Fruad-Detection-Using-Autoencoders
+# Credit-Card-Fraud-Detection-Using-Autoencoders
 
 ## Introduction
 
